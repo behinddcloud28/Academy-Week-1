@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+/Users/user/Desktop/OBSIDI ACADEMY/.metadata/.plugins/org.eclipse.jdt.core
+2273452921.index
+3881417330.index
+3469689072.index
+3939774360.index
