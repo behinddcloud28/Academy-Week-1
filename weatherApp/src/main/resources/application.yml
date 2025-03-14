@@ -1,0 +1,6 @@
+#spring.application.name=weatherApp
+# Logger
+logging.level:
+  web: DEBUG
+  '[com.bptn.weatherapp]': DEBUG
+  '[org.hibernate.type]': INFO
